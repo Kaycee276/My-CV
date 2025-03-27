@@ -36,7 +36,7 @@ const App = () => {
             </p>
             <div className="flex flex-wrap gap-2 mt-2">
               <span className="text-sm bg-orange-600 px-2 py-1 rounded">
-                📍 Nsukka, Enugu
+                📍 Enugu
               </span>
               <span className="text-sm bg-orange-600 px-2 py-1 rounded">
                 📧 kizuaba@gmail.com
