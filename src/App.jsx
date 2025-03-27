@@ -260,7 +260,7 @@ const App = () => {
                 BSc in Computer Science | University of Nigeria, Nsukka
               </h3>
               <p className="text-sm text-gray-500 mb-2">
-                Expected Graduation: 2026 | Current GPA: 3.8/4.0
+                Expected Graduation: 2026 | Current GPA: 4.0/5.0
               </p>
               <ul className="list-disc list-inside text-gray-700">
                 <li>
